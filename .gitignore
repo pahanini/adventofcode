@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 .idea
-input.dat
+input
